@@ -1,4 +1,4 @@
-# TripCarte React Material Dashboard — Material-UI Dashboard Template
+# TripCarte React Material Dashboard — Material-UI Dashboard
 
 Built with [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/).
 **No jQuery and Bootstrap!**
