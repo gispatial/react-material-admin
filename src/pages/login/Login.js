@@ -39,15 +39,15 @@ function Login(props) {
   return (
     <Grid container className={classes.container}>
       <div className={classes.logotypeContainer}>
-        <img src={logo} alt="logo" width="90%" className={classes.logotypeImage} />
-        <Typography className={classes.logotypeText}>Dashboard Admin</Typography>
+        <img src={logo} alt="logo" className={classes.logotypeImage} />
+        <Typography className={classes.logotypeText}>&nbsp;</Typography>
       </div>
       <div className={classes.formContainer}>
         <div className={classes.form}>
           <Tabs
             value={activeTabId}
             onChange={(e, id) => setActiveTabId(id)}
-            indicatorColor="primary"
+            indicatorColor="danger"
             textColor="primary"
             centered
           >

@@ -13,7 +13,7 @@ export default makeStyles(theme => ({
   },
   logotypeContainer: {
     backgroundColor: theme.palette.primary.main,
-    width: "60%",
+    width: "100%",
     height: "100%",
     display: "flex",
     flexDirection: "column",
@@ -27,7 +27,7 @@ export default makeStyles(theme => ({
     },
   },
   logotypeImage: {
-    width: 165,
+    width: 465,
     marginBottom: theme.spacing(4),
   },
   logotypeText: {

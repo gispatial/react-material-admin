@@ -289,15 +289,15 @@ export default function Header(props) {
         >
           <div className={classes.profileMenuUser}>
             <Typography variant="h4" weight="medium">
-              John Smith
+              Johan Wong
             </Typography>
             <Typography
               className={classes.profileMenuLink}
               component="a"
               color="primary"
-              href="https://flatlogic.com"
+              href="https://tripcarte.asia"
             >
-              Flalogic.com
+              Tripcarte.asia
             </Typography>
           </div>
           <MenuItem
